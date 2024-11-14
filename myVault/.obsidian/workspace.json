@@ -8,22 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "930444fef39b8eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Main/Behavioural Biometrics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Behavioural Biometrics"
-            }
-          },
-          {
-            "id": "ee39eea2e217e060",
+            "id": "d713972052be3a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,13 +23,43 @@
             }
           },
           {
-            "id": "dcd33fb8e21bece2",
+            "id": "927fa6762b70a3db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6-Main/Face Scan.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Face Scan"
+            }
+          },
+          {
+            "id": "32ea4ac547d13a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Main/Principal Component Analysis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principal Component Analysis"
+            }
+          },
+          {
+            "id": "86424f6061ff86b1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -119,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Tags/Cloud Computing.md",
+                "file": "4-Index/EndSem Portions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cloud Computing"
+              "title": "Backlinks for EndSem Portions"
             }
           },
           {
@@ -138,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Tags/Cloud Computing.md",
+                "file": "4-Index/EndSem Portions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cloud Computing"
+              "title": "Outgoing links from EndSem Portions"
             }
           },
           {
@@ -165,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Main/Behavioural Biometrics.md"
+                "file": "4-Index/EndSem Portions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Behavioural Biometrics"
+              "title": "Outline of EndSem Portions"
             }
           }
         ],
@@ -188,50 +203,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "930444fef39b8eac",
+  "active": "d713972052be3a74",
   "lastOpenFiles": [
+    "4-Index/Types of Biometrics.md",
+    "6-Main/Principal Component Analysis.md",
+    "Pasted image 20241115001444.png",
+    "6-Main/Face Scan.md",
+    "2-Assests/Pasted image 20241115001110.png",
     "4-Index/EndSem Portions.md",
+    "4-Index/Biometrics.md",
+    "6-Main/DNA Biometrics.md",
+    "6-Main/Cognitive biometrics.md",
+    "6-Main/Knuckle biometric.md",
+    "6-Main/hand vascular geometry analysis.md",
+    "6-Main/Voice Bio.md",
+    "6-Main/Finger Scan Bio.md",
+    "6-Main/iris Scan Bio.md",
     "6-Main/Behavioural Biometrics.md",
+    "6-Main/Dental.md",
+    "6-Main/Iris Scan.md",
+    "2-Assests/Pasted image 20241115000116.png",
+    "6-Main/Basics Of biometric biometric system.md",
+    "6-Main/Biometric applications.md",
+    "3-Tags/docker.md",
+    "3-Tags/Cloud Computing.md",
+    "Clg.md",
     "5-templates/Notes.md",
     "6-Main/Biometric User Interfaces.md",
     "Untitled.canvas",
-    "6-Main/Iris Scan.md",
-    "3-Tags/Biometrics.md",
     "2-Assests/Pasted image 20241114134630.png",
     "2-Assests/Pasted image 20241114113849.png",
     "6-Main/Collage Work/Cloud/Benefits of cloud computing.md",
-    "3-Tags/Cloud Computing.md",
     "6-Main/Web Application.md",
     "3-Tags/websec.md",
-    "6-Main/Web Application Architecture.md",
-    "3-Tags/ui-ux.md",
-    "6-Main/ShadCn.md",
-    "6-Main/NextJs.md",
-    "6-Main/NextJs.md",
-    "4-Index/FullStack.md",
-    "3-Tags/backend.md",
-    "3-Tags/docker.md",
-    "3-Tags/AWS.md",
-    "6-Main/Shared Responsibility Model.md",
-    "6-Main/IPFS.md",
-    "6-Main/Collage Work/Cloud/CAP theorem.md",
-    "6-Main/Collage Work/Cloud/Features of Virtualization.md",
-    "6-Main/Collage Work/Cloud/Clock synchronization.md",
-    "6-Main/Collage Work/Cloud/RAFT.md",
     "noClue.canvas",
     "2-Assests/Pasted image 20241110235502.png",
     "2-Assests/Pasted image 20241110221429.png",
     "2-Assests/Pasted image 20241110221044.png",
     "2-Assests/Pasted image 20241110221024.png",
     "2-Assests/Pasted image 20241110220943.png",
-    "2-Assests/Pasted image 20241110220852.png",
-    "2-Assests/Pasted image 20241110220745.png",
     "6-Main",
     "4-Index",
     "3-Tags",
     "5-templates",
     "Collage Work/Cloud",
-    "2-Assests/cloudarc.png",
     "2-Assests",
     "1-RoughStuff",
     "6-Main/Ui-UX",

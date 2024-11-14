@@ -1,5 +1,4 @@
 
-Tag : [[Biometrics]]
 
 
 
@@ -42,4 +41,11 @@ Tag : [[Biometrics]]
 		-
 	- **three dimensional (3D) hand model-based methods**
 		- Three dimensional model-based methods rely on a 3D kinematic model, by estimating the angular and linear parameters of the model.
+
+### Levels of gesture recognition
+Gesture recognition consists of three basic levels:
+- **Detection** With the help of a camera, a device detects hand or body movements, and a machine learning algorithm segments the image to find hand edges and positions.
+- **Tracking**. A device monitors movements frame by frame to capture every movement and provide accurate input for data analysis
+- **Recognition** The system tries to find patterns based on the gathered data
+
 
